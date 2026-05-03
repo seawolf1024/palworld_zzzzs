@@ -54,7 +54,7 @@ C:\Users\{username}\AppData\Local\Pal\Saved\SaveGames\76561198807407615\<存档I
 
 #### 主机侧
 
-**游玩前**
+##### 游玩前
 
 将本repository全部文件覆盖**本地存档**位置。
 
@@ -65,7 +65,7 @@ git reset --hard origin/main
 
 在Issues发布 [Checkin] 时间，表示正在游玩，其他玩家不能同时离线游玩。
 
-**游玩结束后**
+##### 游玩结束后
 
 上传全部文件至本repository。
 
@@ -83,7 +83,7 @@ git push origin main
 
 因主机侧不在线，玩家侧需要在本地模拟主机侧开服务器，再加入。
 
-**游玩前**
+##### 游玩前
 
 （1）将本repository文件覆盖**服务器存档**位置。
 
@@ -105,7 +105,7 @@ Running Palworld dedicated server on :8211
 
 （4）进入Palworld，选择加入多人游戏（专用服务器），连接127.0.0.1:8211
 
-**游玩结束后**
+##### 游玩结束后
 
 （1）上传全部文件至本repository。
 
