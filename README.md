@@ -1,4 +1,4 @@
-## 基于Git的Palworld回合制联机🐾Palworld Git 接力存档协作规范
+## 🐾基于Git的Palworld回合制离线联机
 
 ### 简介
 
